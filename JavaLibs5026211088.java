@@ -25,7 +25,7 @@ public class JavaLibs5026211088 {
         String jenisKelaminPilihan =(String)JOptionPane.showInputDialog(null, "Jenis Kelamin", "Apa jenis kelaminmu?", 3, null, jenisKelamin, jenisKelamin[0]);
         JOptionPane.showMessageDialog(null, "Okay, " + nama + ". Ternyata kamu " + jenisKelaminPilihan + ", kalau admin sih Laki-laki.");
 
-        // Transisi
+        // Transisi 1
         JOptionPane.showMessageDialog(null, "Terima kasih " + nama + " sudah mengisi data diri! Sekarang langsung saja ke soal matematika yang mau di joki kan.", "Jasa Joki Tugas Matematika", 1);
 
         // 5 dan 6 Input bilangan bulat
@@ -37,7 +37,7 @@ public class JavaLibs5026211088 {
         JOptionPane.showMessageDialog(null, "Calculating... (Tenang bukan error kok)" , "Calculating...", 2);
         JOptionPane.showMessageDialog(null, bilbul1 + " x " + bilbul2 + " = " + hasilbilbul , "Hasil Perkalian Bilangan Bulat", 1);
 
-        // Transisi 1
+        // Transisi 2
         JOptionPane.showMessageDialog(null, "Keren bukan? Bisa langsung otomatis gitu. Iya dongg jelass.", "Jasa Joki Tugas Matematika", 1);
         
         // 7 dan 8 Input bilangan double
@@ -49,7 +49,7 @@ public class JavaLibs5026211088 {
         JOptionPane.showMessageDialog(null, "Calculating... (Tenang bukan error kok)" , "Calculating...", 2);
         JOptionPane.showMessageDialog(null, bildes1 + " + " + bildes2 + " = " + hasilbildes , "Hasil Pertambahan Bilangan Desimal", 1);
         
-        // Transisi 2
+        // Transisi 3
         JOptionPane.showMessageDialog(null, "Waduhhh keren banget gak sihh? Namanya aja \"Jasa Joki Tugas Matematika\", gimana nggak kerenn.", "Jasa Joki Tugas Matematika", 1);
         
         // 9 Input Survey Kepuasan
